@@ -1,0 +1,25 @@
+body {
+    background-color: #485959;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* Mobile Styles */
+
+header {
+    padding: 60px;
+    border-bottom: 4px solid #F0F2DF;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 2.5em;
+    color: #F0F2DF;
+    text-shadow: 2px 2px 2px #000;
+}
+
