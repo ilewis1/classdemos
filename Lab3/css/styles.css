@@ -63,6 +63,7 @@ footer {
 }
 
 /* Tablet View */
+
 @media(min-width: 768px) {
     header h1 {
         font-size: 3em;
@@ -77,4 +78,23 @@ footer {
         width: 65%;
         margin: 20px auto;
     }
+}
+
+/* Desktop View */
+
+@media(min-width: 1024px) {
+    #container {
+        width: 65%;
+        margin: 20px auto;
+    }
+    
+    #flex {
+        display: flex;
+    }
+
+    .col {
+        margin: 0 20px;
+    }
+
+    
 }
