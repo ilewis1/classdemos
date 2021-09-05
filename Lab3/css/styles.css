@@ -63,6 +63,7 @@ footer {
     text-align: center;
     color:#F0F2DF;
     border-top: 4px solid #F0F2DF;
+    text-shadow: 2px 2px 2px #000;
     font-family: 'Kaisei Tokumin', serif;
 }
 
