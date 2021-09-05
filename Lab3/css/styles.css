@@ -1,6 +1,7 @@
 body {
     background-color: #485959;
     font-size: 18px;
+    font-family: 'Poppins', sans-serif;
 }
 
 img {
@@ -21,6 +22,7 @@ header h1 {
     font-size: 2.5em;
     color: #F0F2DF;
     text-shadow: 2px 2px 2px #000;
+    font-family: 'Kaisei Tokumin', serif;
 }
 
 #container {
@@ -45,6 +47,7 @@ main {
     font-size: 2 em;
     color: #F0F2DF;
     text-shadow: 2px 2px 2px #000;
+    font-family: 'Kaisei Tokumin', serif;
 }
 
 .col img {
