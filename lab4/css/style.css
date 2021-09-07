@@ -63,12 +63,18 @@ nav, section, aside, .col, footer {
     background-color: #2E5559;
     color: #D7D9D7;
     height: 40px;
+    width: 175px;
     line-height: 40px;
     text-align: center;
-    margin: 10px 0;
+    margin: 10px auto;
     text-decoration: none;
     font-size: 1.2em;
     border-radius: 10px;
+}
+
+nav li a:hover, .button:hover {
+    background-color: #688C71;
+    text-shadow: 1px 1px 1px #000;
 }
 
 /* Tablet Styles */
