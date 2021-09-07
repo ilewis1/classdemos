@@ -58,6 +58,18 @@ nav, section, aside, .col, footer {
     border: 4px solid #2E5559;
 }
 
+.button {
+    display: block;
+    background-color: #2E5559;
+    color: #D7D9D7;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 10px 0;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 10px;
+}
 
 /* Tablet Styles */
 
