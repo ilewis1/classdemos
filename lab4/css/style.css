@@ -8,8 +8,14 @@ img {
     max-width: 100%;
     margin: 0 auto;
 }
-/* Mobile Styles */
 
+/* Mobile Styles */
+#container {
+    background-color: #688C71;
+    margin: 10px;
+    border: 4px solid #D7D9D7;
+
+}
 
 /* Tablet Styles */
 
