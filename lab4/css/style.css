@@ -28,6 +28,19 @@ header h1 {
     text-align: center;
 }
 
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+}
+
 nav, section, aside, .col, footer {
     background-color: #D7D9D7;
     padding: 20px;
