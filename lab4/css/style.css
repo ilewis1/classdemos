@@ -14,9 +14,15 @@ img {
     background-color: #688C71;
     margin: 10px;
     border: 4px solid #D7D9D7;
-
 }
 
+nav, section, aside, .col, footer {
+    background-color: #D7D9D7;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 4px solid #2E5559;
+}
 /* Tablet Styles */
 
 
