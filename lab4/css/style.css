@@ -162,4 +162,12 @@ footer {
     #lower_flex {
         display: flex;
     }
+
+    .col {
+        width: 100%;
+    }
+
+    .col img {
+        width: 100%;
+    }
 }
