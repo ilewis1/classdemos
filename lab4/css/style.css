@@ -109,6 +109,7 @@ footer {
 
     nav {
         text-align: center;
+        padding: 5px;
     }
 
     nav li {
@@ -120,6 +121,19 @@ footer {
         line-height: 50px;
         width: 200px;
     }
+
+    #upper_flex {
+        display: flex;
+    }
+
+    section, aside {
+        width: 50%;
+    }
+
+    aside img {
+        width: 50%;
+    }
+
 }
 
 /* Desktop Styles */
